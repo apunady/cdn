@@ -4,7 +4,7 @@
     "name": "lenk.cf",
     "short_name": "Lenk",
     "scope": "/",
-    "display": "browser",
+    "display": "standalone",
     "start_url": "https://4543.ml/",
     "background_color": "#000000",
     "theme_color": "#000",
