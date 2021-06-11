@@ -1,11 +1,11 @@
 {
     "dir": "ltr",
     "lang": "en",
-    "name": "4543.ml ",
-    "short_name": "4543.ml",
+    "name": "lenk.cf ",
+    "short_name": "lenk.cf",
     "scope": "/",
     "display": "standalone",
-    "start_url": "https://4543.ml/",
+    "start_url": "https://lenk.cf",
     "background_color": "#000000",
     "theme_color": "#000",
     "description": "An open-source URL shortner built with nodeJS and vercel serverless function.",
@@ -36,5 +36,5 @@
             "purpose": "any maskable"
         }
     ],
-    "url": "https://4543.ml"
+    "url": "https://lenk.cf"
 }
